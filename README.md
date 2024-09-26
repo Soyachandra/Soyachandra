@@ -9,10 +9,8 @@ With over a decade of experience in academic teaching and professional training,
 - 🛠️ Research & Development in **Blockchain Technology** (Hyperledger, Web3)
 - 🌐 Expertise in **Full Stack Development** (JavaScript, React, Node.js, Express.js)
 - 👩‍🏫 Mentoring students and professionals in **Blockchain**,  & **Web Development**
-- 🧠 Innovating and delivering industry-relevant curricula in blockchain and software development
 
 
-📫 Feel free to reach out to me on https://www.linkedin.com/in/soyachandra/
 
 
 
