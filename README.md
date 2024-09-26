@@ -1,4 +1,21 @@
-## Hi there 👋
+ 
+
+👋 Hi there! I'm Soya Chandra C.S!
+
+🔬 **R&D Engineer** | 🎓 **Trainer** | 💻 **Full Stack Development Faculty** | 🔗 **Blockchain Trainer**
+
+With over a decade of experience in academic teaching and professional training, I specialize in:
+
+- 🛠️ Research & Development in **Blockchain Technology** (Hyperledger, Web3)
+- 🌐 Expertise in **Full Stack Development** (JavaScript, React, Node.js, Express.js)
+- 👩‍🏫 Mentoring students and professionals in **Blockchain**,  & **Web Development**
+- 🧠 Innovating and delivering industry-relevant curricula in blockchain and software development
+
+
+📫 Feel free to reach out to me on https://www.linkedin.com/in/soyachandra/
+
+
+
 
 <!--
 **Soyachandra/Soyachandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
