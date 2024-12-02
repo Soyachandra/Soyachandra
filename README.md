@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm Soya Chandra C.S!
 
-![My Profile Picture](Profile.png)
+![My Profile Picture](Profile.jpg)
 
 
 🔬 **R&D Engineer** | 🎓 **Trainer** | 💻 **Full Stack Development Faculty** | 🔗 **Blockchain Trainer**
