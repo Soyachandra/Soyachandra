@@ -9,7 +9,7 @@ With over a decade of experience in academic teaching and professional training,
 - 🛠️ Research & Development in **Blockchain Technology** (Hyperledger, Web3)
 - 🌐 Expertise in **Full Stack Development** (JavaScript, React, Node.js, Express.js,Mongodb )
 - 👩‍🏫 Mentoring students and professionals in **Blockchain**,  & **Web Development**
-- ![Badge Name](https://img.shields.io/badge/<label>-<message>-<color>)
+- ![Badge Name](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 
 
