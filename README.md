@@ -2,7 +2,6 @@
 
 👋 Hi there! I'm Soya Chandra C.S!
 
-![My Profile Picture](Profile.jpg) <img src="image_url" alt="Alt text" width="300"/>
 
 
 
